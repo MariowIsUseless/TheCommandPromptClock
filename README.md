@@ -46,4 +46,4 @@ Terminate the running process.
 
 ```launch.bat /labconfig```
 
-This ripristinate the entire file to run with the lab settings, this may corrupt **ALL** of your command promt settings and files.
+This ripristinate the entire file to run with the Windows lab settings, this may corrupt **ALL** of your command prompt settings and files.
