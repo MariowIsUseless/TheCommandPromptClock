@@ -1,12 +1,14 @@
-# TheCommandPromptClock
+# The Command Prompt Clock™️
 A clock that remember the 85's when powering on MS-DOS and the clock propt shows up.
 The default color is green, but you can edit it using the insructables.
+
+The milliseconds aren't perfect, because of the updste process, if you have a faster Command Prompt updater than me, you can experience the old times, a lot better!
 
 - How to modify the color.
 
 First, right click on the .bat file and click "Edit"
 
-Then search for "color" and then modify the number. 
+Then search for "color" and then modify the number (like 01=blue 02=green 03=light green...)
 
 Finally, click save and you have now edited your color!
 
