@@ -2,7 +2,9 @@
 A clock that remember the 85's when powering on MS-DOS and the clock propt shows up.
 The default color is green, but you can edit it using the insructables.
 
-The milliseconds aren't perfect, because of the updste process, if you have a faster Command Prompt updater than me, you can experience the old times, a lot better!
+The milliseconds aren't perfect, because of the update speed, if you have a faster Command Prompt updater than me, you can experience the old times, a lot better!
+
+TIP: For a faster update, run it from the Command Prompt (without any arguments) to experience the clock more perfectly.
 
 - How to modify the color.
 
